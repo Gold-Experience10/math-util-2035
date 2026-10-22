@@ -8,8 +8,6 @@
 * A CI script to check and build the project automatically with GitHub Actions
 
 ### Screen-shots
-![JUnit with TDD, DDT](https://github.com/doit-now/math-util-2035/blob/main/screen-shots/DDT%20with%20JUnit.png)
-
 ![JUnit with TDD, DDT](https://github.com/Gold-Experience10/math-util-2035/blob/main/screen-shots/DDT%20with%20JUnit.png)
 
 #### Connect me via: giakietdoan13@gmail.com
